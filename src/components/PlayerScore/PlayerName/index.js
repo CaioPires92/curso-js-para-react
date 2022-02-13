@@ -1,7 +1,9 @@
+import './style.css'
+
 function PlayerName(content) {
   return `
 
-    <p>Player${content}</p>
+    <p class="player-name">Player${content}</p>
 
   `
 }
