@@ -5,6 +5,7 @@ function CardFrontBack() {
 
       <article class="card-front-back">
         ${CardGame()}
+        ${CardGame('javascript', 'JavaScript')}
       </article>
       
 
