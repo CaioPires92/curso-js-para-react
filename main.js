@@ -7,11 +7,10 @@ import BoardGame from './src/objects/BoardGame'
 
 const $root = document.querySelector('#root')
 
-
 $root.insertAdjacentHTML(
   'beforeend',
 
-   `${ScoreBoard()}
-    ${BoardGame(2)}
+  `${ScoreBoard()}
+    ${BoardGame(6)}
     `
-    )
+)
