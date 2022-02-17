@@ -1,6 +1,8 @@
+import './style.css'
+
 function VsPlayer(content = 'VS') {
   return /*html*/ `
-    <span>${content}</span>
+    <span class="vs-player">${content}</span>
   `
 }
 
