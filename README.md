@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  ![Cover](https://user-images.githubusercontent.com/30732753/175829382-3aea0bba-e930-4ea3-92e0-45635b0d8b65.png)
+  <img src="https://user-images.githubusercontent.com/30732753/175829382-3aea0bba-e930-4ea3-92e0-45635b0d8b65.png" alt="" />
 </p>
 
 ## 🚀 Technologies
