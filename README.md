@@ -4,19 +4,16 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00875F&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00875F&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Event Platform" src=".github/Cover.png" width="100%">
+  ![Cover](https://user-images.githubusercontent.com/30732753/175829382-3aea0bba-e930-4ea3-92e0-45635b0d8b65.png)
 </p>
 
 ## 🚀 Technologies
